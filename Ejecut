@@ -1,0 +1,11 @@
+c++
+Compilar
+g++ main.cpp -o main
+Ejectuar
+./main
+
+C
+Compilar
+gcc main.c -Wall -Wextra -o main
+Ejecutar
+./main
