@@ -2,6 +2,13 @@
 #include <vector>
 #include <queue>
 
+/*
+? Se implemento el recorrido en amplitud (Breadth-first-search)
+? y (Deep-first-search) en una matriz de adyacencia, para ver esto
+? de forma un poco mas visual y didactica:
+                        https://github.com/iLaurx/DFS-BFS
+*/
+
 class GrafoMA
 {
     private:
